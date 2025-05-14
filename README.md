@@ -46,7 +46,7 @@ The database schema includes:
 
 ### Setup
 
-1. Clone the repository:
+
 
 ```bash
 git clone https://github.com/Aditya-raj123/imdb-sql-project.git
